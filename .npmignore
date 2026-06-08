@@ -1,0 +1,10 @@
+# 只排除不需要发布的文件，dist/ 必须包含
+node_modules/
+src/
+docs/
+.pi/
+.idea/
+.vscode/
+*.log
+.DS_Store
+tsconfig.json
