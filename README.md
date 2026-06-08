@@ -14,15 +14,7 @@
 ## 安装
 
 ```bash
-npm install -g maplezzk/apollo-config-mcp
-```
-
-或从源码构建：
-
-```bash
-git clone https://github.com/maplezzk/apollo-config-mcp.git
-cd apollo-config-mcp
-npm install && npm run build
+npm install -g github:maplezzk/apollo-config-mcp
 ```
 
 ## 环境变量
