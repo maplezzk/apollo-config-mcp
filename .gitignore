@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Pi session / workflow artifacts
+.pi/
+
+# Plan drafts (optional - remove this line if you want to commit plan docs)
+# docs/plans/
