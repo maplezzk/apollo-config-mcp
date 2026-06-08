@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-npm install -g github:maplezzk/apollo-config-mcp
+npm install -g github:maplezzk/apollo-config-mcp --install-links
 ```
 
 ## 环境变量
